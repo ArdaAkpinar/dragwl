@@ -52,8 +52,7 @@ local whitelist = {
     "ALMUTASIMq",
     "EFREWFTEWT",
     "vibez_qxys",
-    "Rockifails123456",
-    "xkinq_Fxrce",
+    "Rockifails123456" 
     "jaguarisfast" -- giveaway winner
 }
 
