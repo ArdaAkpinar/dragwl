@@ -27,31 +27,6 @@ local whitelist = {
     "AHMED_YT1233",
     "xKinq_Fxrce",
     "vanguardxe",
-    "martin_figueroa21",
-    "boconhairnew", -- 1 din ruk
-    "brunin_la",
-    "dvessayy",
-    "mokaarfa54",
-    "Tps_Strakosha9",
-    "Princeplayz_YTx",
-    "vanguardxe",
-    "Hiivver",
-    "TPS_DUGOL2",
-    "5mdmdUWU",
-    "tps_gkMonster",
-    "Mikecrackexet",
-    "TPS_FLEX",
-    "i8xfr",
-    "dievin55",
-    "JUSIAN_FNF",
-    "Yasinqatar2233",
-    "AnkledByRev",
-    "Theonexll",
-    "Zzz_tps2",
-    "NormalFootballerNF", --limiteditemsking
-    "ALMUTASIMq",
-    "vibez_qxys",
-    "Rockifails123456" 
     "jaguarisfast" -- giveaway winner
 }
 
