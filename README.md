@@ -50,7 +50,6 @@ local whitelist = {
     "Zzz_tps2",
     "NormalFootballerNF", --limiteditemsking
     "ALMUTASIMq",
-    "EFREWFTEWT",
     "vibez_qxys",
     "Rockifails123456" 
     "jaguarisfast" -- giveaway winner
